@@ -1,0 +1,5 @@
+# Day1 scripting - Hello World
+
+print("Hello\n")
+print("This is my first Python script\n")
+print("Its good to start scripting")
